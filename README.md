@@ -1,1 +1,1 @@
-# Analyze log-file and drawing of frequnecy and performance graphs
+### Анализ лог-файла и отрисовка графов
