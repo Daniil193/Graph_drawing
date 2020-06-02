@@ -1,2 +1,2 @@
-### Анализ лог-файла и отрисовка графов
-#### Подробнее можно прочитать на [сайте](https://newtechaudit.ru/grafovaya-analitika/, 'newtechaudit').
+### Log analysis and graph drawing
+#### Read more at [webpage](https://newtechaudit.ru/grafovaya-analitika/, 'newtechaudit').
